@@ -84,3 +84,21 @@ ul.tabs li a .tab-text {
         padding: 20px;
     }
 }
+
+* {
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: calc(100% - 4rem);
+}
+
+.footer {
+    height: 4rem;
+    background-color: #e2e2e2
+}
